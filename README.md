@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=rtLXIlbaUs8nhMnaC9aEv08PhyGTjFfwrgE8ZdCmziM)
+![Data Analyst Banner](https://app.lottiefiles.com/animation/5fe1115d-7cba-438f-aa73-5820ec9a28e9?panel=download)
 <!-- ========== 1) TIÊU ĐỀ & SUBTITLE ========== -->
 <h1 align="center">Hi 👋, I'm <b>Hoang Long</b></h1>
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## 🎯 Focus Areas
 - **Risk Analytics**: PD/LGD/EAD (overview), scorecards, monitoring, KPI (CIR, ROE)
-- **Payments**: authorization/clearing/settlement metrics, fraud patterns, dispute signals
+- **Core Banking & Financial Statements**: asset–liability analysis; key ratios—ROE, ROA, NIM, CIR, NPL, CAR, LDR.
 - **Data Workflow**: collection → cleaning → EDA → modeling (basic) → BI dashboards (Power BI)
 
 ## 📊 GitHub Stats
