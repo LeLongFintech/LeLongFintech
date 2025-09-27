@@ -1,4 +1,3 @@
-![Data Analyst Banner](https://app.lottiefiles.com/animation/5fe1115d-7cba-438f-aa73-5820ec9a28e9?panel=download)
 <!-- ========== 1) TIÊU ĐỀ & SUBTITLE ========== -->
 <h1 align="center">Hi 👋, I'm <b>Hoang Long</b></h1>
 <p align="center">
