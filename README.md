@@ -1,15 +1,4 @@
-<!-- Typing banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Hoang+Long;Data+Analyst;Finance+%7C+Risk+%7C+Payments" alt="Typing SVG" />
-</p>
-<p align="center">
-  <!-- Đặt 2 ảnh banner light/dark trong thư mục assets/ -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img alt="Hoang Long — Data Analyst in Finance" src="assets/banner-light.png" width="100%">
-  </picture>
-</p>
-
+![MasterHead](https://media.licdn.com/dms/image/v2/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=rtLXIlbaUs8nhMnaC9aEv08PhyGTjFfwrgE8ZdCmziM)
 <!-- ========== 1) TIÊU ĐỀ & SUBTITLE ========== -->
 <h1 align="center">Hi 👋, I'm <b>Hoang Long</b></h1>
 <p align="center">
@@ -19,6 +8,7 @@
 ---
 
 <!-- ========== 4) ABOUT ME ========== -->
+
 ## ✨ About Me
 - 💬 Ask me about **Data in Finance**
 - 📫 Gmail: **hoanglongstudy210505@gmail.com**
