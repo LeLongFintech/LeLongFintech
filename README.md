@@ -10,7 +10,7 @@
 
 ## ✨ About Me
 - 💬 Ask me about **Data in Finance**
-- 📫 Gmail: **hoanglongstudy210505@gmail.com**
+- 📫 Email: **hoanglongstudy210505@gmail.com**
 
 <!-- ========== 5) TECH & TOOLS ========== -->
 ## 🛠️ Tech Stack
