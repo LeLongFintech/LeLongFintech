@@ -71,7 +71,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LeLongFintech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeLongFintech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="31.65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeLongFintech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
