@@ -93,10 +93,20 @@
 
 ## 📊 GitHub Statistics
 
+<br>
+
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=LeLongFintech&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d9ff&icon_color=00d9ff&border_radius=10" alt="GitHub Stats" />
-  <img width="31.65%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LeLongFintech&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&border_radius=10&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=LeLongFintech&show_icons=true&hide_border=true&bg_color=0A192F&title_color=00D9FF&text_color=E6F1FF&icon_color=00D9FF&border_radius=10&ring_color=00D9FF" alt="GitHub Stats" />
+  <img width="31.65%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LeLongFintech&layout=compact&hide_border=true&bg_color=0A192F&title_color=00D9FF&text_color=E6F1FF&border_radius=10&langs_count=8" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeLongFintech&bg_color=0A192F&color=E6F1FF&line=00D9FF&point=E6F1FF&area=true&area_color=00D9FF&hide_border=true&radius=10" alt="Contribution Graph" />
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=2&section=header" width="100%"/>
 
 ---
 
